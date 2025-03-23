@@ -1,15 +1,12 @@
-## Hi there 👋
-
-<!--
-**Parkhi-byte/Parkhi-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there!👋
 
  📫 How to reach me:
 
-LinkedIn: Parkhi
+LinkedIn: 
+
+www.linkedin.com/in/parkhi-3a62a1315
 
 GitHub: Parkhi-byte
-
-Email: [Your Email Here]
 
 ⚡ Fun fact
 
