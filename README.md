@@ -1,13 +1,27 @@
-## Hi there!👋
+# Hi there! 👋
 
- 📫 How to reach me:
+I'm **Parkhi**, a passionate **Computer Science Engineer** specializing in **Web Development**, **Machine Learning**, and **Creative Technology Solutions**.  
+Always curious, always building. 🚀
 
-LinkedIn: 
+---
 
-www.linkedin.com/in/parkhi-3a62a1315
+## 📫 Connect with Me:
+- 🔗 **LinkedIn**: [linkedin.com/in/parkhi-3a62a1315](https://www.linkedin.com/in/parkhi-3a62a1315)
+- 🌐 **Portfolio**: [parkhi-portfolio.netlify.app](https://parkhi-portfolio.netlify.app/)
+- 🖥️ **GitHub**: [Parkhi-byte](https://github.com/Parkhi-byte)
 
-GitHub: Parkhi-byte
+---
 
-⚡ Fun fact
+## ⚡ About Me:
+- 🔥 Enthusiastic about building impactful web applications.
+- 🤖 Exploring Machine Learning and AI innovation.
+- 🎯 Focused on solving real-world problems through technology.
+- 🌟 Believer in lifelong learning and continuous growth.
 
-I love exploring new tech trends and experimenting with creative project ideas. Let's connect and innovate together! 🚀
+---
+
+## 🚀 Fun Fact:
+I love **exploring new tech trends**, **experimenting with creative project ideas**, and collaborating on **innovative solutions**.  
+Let’s connect and build something amazing together! 🚀
+
+---
