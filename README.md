@@ -8,7 +8,7 @@ Curious by nature, committed to creating meaningful digital experiences. Aspirin
 
 ## 📫 Connect with Me:
 - 🔗 **LinkedIn**: [linkedin.com/in/parkhi-3a62a1315](https://www.linkedin.com/in/parkhi-3a62a1315)
-- 🌐 **Portfolio**: [parkhi-portfolio.netlify.app](https://parkhi-port-folio.netlify.app/)
+- 🌐 **Portfolio**: [parkhi-port-folio.netlify.app](https://parkhi-port-folio.netlify.app/)
 - 🖥️ **GitHub**: [Parkhi-byte](https://github.com/Parkhi-byte)
 
 ---
