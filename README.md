@@ -1,7 +1,8 @@
 # Hi there! 👋
 
-I'm **Parkhi**, a passionate **Computer Science Engineer** specializing in **Web Development**, **Machine Learning**, and **Creative Technology Solutions**.  
-Always curious, always building. 🚀
+I'm Parkhi, a final-year B.Tech CSE student with a strong interest in Frontend Development, UI/UX Design, and building interactive, responsive web projects.
+Curious by nature, committed to creating meaningful digital experiences. Aspiring Full Stack Developer.🚀
+
 
 ---
 
@@ -15,6 +16,7 @@ Always curious, always building. 🚀
 ## ⚡ About Me:
 - 🔥 Enthusiastic about building impactful web applications.
 - 🤖 Exploring Machine Learning and AI innovation.
+- 💻 Passionate about crafting clean, responsive web applications.
 - 🎯 Focused on solving real-world problems through technology.
 - 🌟 Believer in lifelong learning and continuous growth.
 
