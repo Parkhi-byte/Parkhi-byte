@@ -7,7 +7,7 @@ Always curious, always building. 🚀
 
 ## 📫 Connect with Me:
 - 🔗 **LinkedIn**: [linkedin.com/in/parkhi-3a62a1315](https://www.linkedin.com/in/parkhi-3a62a1315)
-- 🌐 **Portfolio**: [parkhi-portfolio.netlify.app](https://parkhi-portfolio.netlify.app/)
+- 🌐 **Portfolio**: [parkhi-portfolio.netlify.app](https://parkhi-port-folio.netlify.app/)
 - 🖥️ **GitHub**: [Parkhi-byte](https://github.com/Parkhi-byte)
 
 ---
